@@ -1,6 +1,3 @@
 # Shushoong
 KH_Final Project
-<li>
-
-  test
-</li>
+<li> test</li>
